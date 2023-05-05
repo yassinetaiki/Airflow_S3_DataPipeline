@@ -4,4 +4,8 @@ In this project, we will be leveraging Airflow and Python to extract, transform,
 # Architecture 
 ![text alternatif](https://github.com/yassinetaiki/Airflow_S3_DataPipline/blob/master/architecture.png)
 
-# Technologie Used
+## Repository Contents
+
+- `dag_twitter_etl.py`: Airflow DAG for the data pipeline.
+- `twitter_etl.py`: Python script for extracting and transforming data from Twitter.
+- `list_tweet_musk.csv`: Example output file from the extract-transform process.
