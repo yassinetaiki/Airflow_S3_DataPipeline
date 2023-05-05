@@ -1,19 +1,7 @@
-# Airflow_DataPipeline_S3
+# introduction
+In this project, we will be leveraging Airflow and Python to extract, transform, and load data from Twitter. Specifically, we will use the Twitter API to extract data, Python for data transformation, and deploy the code on Airflow/EC2. Finally, we will save the transformed data on Amazon S3. Through this project, we aim to showcase how to use Airflow and Python to build a scalable and reliable data pipeline for Twitter data.
 
-In this project we will use Airflow and Python.
+# Architecture 
+![text alternatif](https://github.com/yassinetaiki/Airflow_S3_DataPipline/blob/master/architecture.png)
 
-step 1 : 
-
-extract data using Twitter API, 
-
-step 2:
-
-use python to transform data 
-
-step 3:
-
-deploy the code on Airflow/EC2 
-
-step 4:
-
-save the final result on Amazon S3
+# Technologie Used
